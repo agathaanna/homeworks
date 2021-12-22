@@ -1,6 +1,8 @@
 # homeworks
 
 ## Project setup
+
+### Folder: homework
 ```
 npm install
 ```
@@ -22,3 +24,12 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+## Backend setup 
+
+### Folder: homework-api
+```
+python main.py
+
+```
